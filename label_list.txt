@@ -1,0 +1,6 @@
+trafficLight - (신호등)
+trafficLightBar - 세로 형태(보도등 or 신호등)
+trafficSignCircle - 표지판(원형)
+trafficSignRTG - 표지판(사각)
+trafficSignTri - 표지판(삼각)
+closingCar(13832670)

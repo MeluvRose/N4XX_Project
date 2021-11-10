@@ -1,0 +1,1 @@
+{"annotation":[{"shape":"triangle","color":"blue","kind":"normal","box":[902,122,940,161],"text":"0","type":"instruction","class":"traffic_sign"},{"shape":"circle","color":"red","kind":"normal","box":[948,130,983,163],"text":"0","type":"restriction","class":"traffic_sign"}],"image":{"filename":"14481327.jpg","imsize":[1920,1080]}}
